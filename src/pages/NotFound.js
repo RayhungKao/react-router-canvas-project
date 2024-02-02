@@ -1,7 +1,7 @@
 export function NotFound() {
   return (
     <>
-      <h1>NotFound</h1>
+      <h1 style={{ textAlign: "center" }}>NotFound</h1>
     </>
   );
 }
