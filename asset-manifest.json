@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-router-canvas-project/static/js/main.2000642d.js",
+    "static/js/787.d19cbb00.chunk.js": "/react-router-canvas-project/static/js/787.d19cbb00.chunk.js",
+    "index.html": "/react-router-canvas-project/index.html",
+    "main.2000642d.js.map": "/react-router-canvas-project/static/js/main.2000642d.js.map",
+    "787.d19cbb00.chunk.js.map": "/react-router-canvas-project/static/js/787.d19cbb00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2000642d.js"
+  ]
+}
