@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/react-router-canvas-project/static/js/main.4931b9b9.js",
+    "main.js": "/react-router-canvas-project/static/js/main.d610ddf6.js",
     "static/js/787.d19cbb00.chunk.js": "/react-router-canvas-project/static/js/787.d19cbb00.chunk.js",
     "index.html": "/react-router-canvas-project/index.html",
-    "main.4931b9b9.js.map": "/react-router-canvas-project/static/js/main.4931b9b9.js.map",
+    "main.d610ddf6.js.map": "/react-router-canvas-project/static/js/main.d610ddf6.js.map",
     "787.d19cbb00.chunk.js.map": "/react-router-canvas-project/static/js/787.d19cbb00.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.4931b9b9.js"
+    "static/js/main.d610ddf6.js"
   ]
 }
